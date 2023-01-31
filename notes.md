@@ -5,7 +5,7 @@
 # Metric
 ## definition
 For a set $X\ne\phi$ , a metric $d$ is a map
-$d: X\rightarrow \mathbb{R}_ 0 ^+ $ satisfying:
+$d: X\rightarrow \mathbb{R}_ 0 ^+$ satisfying:
 * d(x,y)=d(y,x)
 * d(x,y)=0 $\iff$ x=y
 * d(x,y) $\le$ d(x,z) + d(z,y)
