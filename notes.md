@@ -104,7 +104,7 @@ TFAE
 $ (X,d)$ is said to be seperable if it has a **countable** dense subset.
 # Interior, Closure, Boundary
 ## Defs
-* Interior$:=\{x \in A\ | \exists \epsilon$ such that $B_{\epsilon}(x)\subseteq A \}$, largest open set contained in A
+* Interior:= $\{x \in A\ | \exists \epsilon$ such that $B_{\epsilon}(x)\subseteq A \}$, largest open set contained in A
 * Closure:= $A \cup \{a\ |\ \exists\ \{x_n\in A\} \rightarrow a\in X\}$, smallest closed set containing A
 * Boundary:= $\{a\ |\ \exists\ \epsilon$ with $B_{\epsilon}(a)\cap A \ne \phi$ or $B_{\epsilon}(a)\cap A^C \ne \phi\}$, limit points of either $A$ or $A^C$
 ## a relation
